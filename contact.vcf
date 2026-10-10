@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;Анна;;;
+FN:Анна — БухгалтерНатива
+ORG:БухгалтерНатива
+TEL;TYPE=WORK,VOICE:+79217845937
+item1.URL:https://t.me/byxgalternativa
+item1.X-ABLabel:Telegram
+item2.URL:https://vk.ru/byxgalternativa
+item2.X-ABLabel:ВКонтакте
+item3.URL:https://max.ru/id470416033273_biz
+item3.X-ABLabel:MAX
+NOTE:Бухгалтерское сопровождение бизнеса\n
+ Telegram: https://t.me/byxgalternativa\nВКонтакте: https://vk.ru/
+ byxgalternativa\nMAX: https://max.ru/id470416033273_biz
+END:VCARD
